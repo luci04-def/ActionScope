@@ -142,3 +142,10 @@ By focusing on video preprocessing and inference pipeline design, the system pro
 - Improved visualization of predictions  
 - Web-based user interface  
 
+
+## Progress
+
+- Day 1: Problem understanding and dataset selection
+- Day 2: GitHub repository setup and project structure
+- Day 3: Video loading, frame extraction, and temporal sampling
+
