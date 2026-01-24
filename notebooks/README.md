@@ -20,5 +20,8 @@ notebooks/
 - action_label_mapping.ipynb
 
 ## Progress
+
 - Day 1: Problem understanding and dataset selection
 - Day 2: GitHub repository setup and structure
+- Day 3: Video loading and frame extraction
+- Day 4: Pretrained model integration and inference setup
