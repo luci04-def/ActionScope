@@ -149,3 +149,19 @@ By focusing on video preprocessing and inference pipeline design, the system pro
 - Day 2: GitHub repository setup and project structure
 - Day 3: Video loading, frame extraction, and temporal sampling
 
+## System Pipeline
+Video Input → Frame Extraction → Temporal Sampling → 
+Pretrained 3D CNN → Action Prediction → Confidence Score
+
+## Tools & Technologies
+- Python
+- OpenCV
+- PyTorch
+- Torchvision
+
+## Project Structure
+notebooks/
+- frame_extraction.ipynb
+- action_inference.ipynb
+- action_label_mapping.ipynb
+
