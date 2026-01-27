@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+
+# VSCode
+.vscode/
+
+# MAC
+.DS_Store
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore videos and large data
+*.avi
+*.mp4
+data/
+uploads/
